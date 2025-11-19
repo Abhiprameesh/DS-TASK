@@ -3,7 +3,7 @@
 This mini-project explores the relationship between trader performance and Bitcoin market sentiment using two datasets provided in the assignment:
 
 - **Bitcoin Market Sentiment Dataset** (`fear_greed_index.csv`)
-- **Historical Trader Data from Hyperliquid** (`historical_data.csv`)
+- **Historical Trader Dataset** (`historical_data.csv`)
 
 The goal is to understand how trading PnL and behavior vary across different sentiment regimes (e.g. *Extreme Fear*, *Fear*, *Neutral*, *Greed*).
 
@@ -219,3 +219,4 @@ To go beyond this baseline, the following extensions could be explored:
 
 These ideas show how this exploratory analysis could evolve into a more production-like
 research or trading framework.
+
